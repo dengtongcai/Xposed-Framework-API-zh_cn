@@ -1,3 +1,4 @@
-# My Awesome Book
+# Xposed Framework API中文版
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+此文档为汉化 [Xposed Framework API](http://api.xposed.info/reference/packages.html) 英文版，原版地址点击即可前往。
+
