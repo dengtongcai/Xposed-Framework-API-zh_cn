@@ -12,7 +12,7 @@ Contains[`AndroidAppHelper`](http://api.xposed.info/reference/android/app/Androi
 
 |  |  |
 | :--- | :--- |
-|  |  |
+| AndroidAppHelper |  |
 
 
 
