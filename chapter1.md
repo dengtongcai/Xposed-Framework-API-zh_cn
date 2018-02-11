@@ -1,6 +1,6 @@
 # 总览
 
-欢迎使用**Xposed Framework API**的Javadoc参考。模块开发人员可以从这里了解他们可以使用哪些类和方法。其中使用最多的是：
+欢迎使用**Xposed Framework API**的Javadoc参考文档。模块开发人员可以从这里了解他们可以使用哪些类和方法。其中使用最多的类是：
 
 * [`IXposedHookZygoteInit`](http://api.xposed.info/reference/de/robv/android/xposed/IXposedHookZygoteInit.html)
 * [`IXposedHookLoadPackage`](http://api.xposed.info/reference/de/robv/android/xposed/IXposedHookLoadPackage.html)
